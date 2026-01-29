@@ -2,6 +2,7 @@ streamlit
 pandas
 numpy
 matplotlib
+pdfplumber
 PyPDF2
 reportlab
 
