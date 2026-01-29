@@ -101,44 +101,42 @@ Career_Resume_App/
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Clone the repository
-
+```bash
 git clone https://github.com/rajpawarkk11/Career-Intelligence-Platform.git
 cd Career-Intelligence-Platform
 
 2️⃣ Install dependencies
 pip install -r requirements.txt
 
-2️⃣ Install dependencies
+3️⃣ Run the application
 python -m streamlit run app.py
+```
 
-🎯 Use Case
+
+## 🎯 Use Case
 
 This platform helps users:
 
-Understand how ATS systems evaluate resumes
+- Understand how ATS systems evaluate resumes  
+- Identify the most suitable career roles  
+- Discover missing skills and improvement areas  
+- Follow a realistic learning plan to become job-ready  
 
-Identify the most suitable career roles
+---
 
-Discover missing skills and improvement areas
+## 👨‍💻 Author
 
-Follow a realistic learning plan to become job-ready
+**Raj Vijay Pawar**  
+Aspiring AI, Data & Software Professional  
+GitHub: https://github.com/rajpawarkk11  
 
-👨‍💻 Author
+---
 
-Raj Vijay Pawar
-Aspiring AI, Data & Software Professional
-GitHub: https://github.com/rajpawarkk11
-
-⭐ Support
+## ⭐ Support
 
 If you find this project useful:
 
-⭐ Star the repository
-
-🍴 Fork it
-
-💬 Share feedback
-
-
-
+- ⭐ Star the repository  
+- 🍴 Fork it  
+- 💬 Share feedback  
 
