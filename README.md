@@ -101,11 +101,14 @@ Career_Resume_App/
 ## ▶️ How to Run Locally
 
 ### 1️⃣ Clone the repository
-```bash
+
 git clone https://github.com/rajpawarkk11/Career-Intelligence-Platform.git
 cd Career-Intelligence-Platform
 
+2️⃣ Install dependencies
 pip install -r requirements.txt
+
+2️⃣ Install dependencies
 python -m streamlit run app.py
 
 🎯 Use Case
@@ -135,6 +138,7 @@ If you find this project useful:
 🍴 Fork it
 
 💬 Share feedback
+
 
 
 
