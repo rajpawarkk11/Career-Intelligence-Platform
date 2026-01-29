@@ -1,0 +1,103 @@
+role,skills
+Data Analyst,python sql excel powerbi tableau statistics pandas numpy data cleaning data visualization reporting analytics
+Data Scientist,python statistics machine learning deep learning pandas numpy feature engineering model evaluation experimentation
+AI Engineer,python machine learning deep learning tensorflow pytorch neural networks computer vision nlp llm
+ML Engineer,python machine learning deep learning mlops tensorflow pytorch model deployment pipelines monitoring
+Software Engineer,python java c++ c data structures algorithms oop system design debugging testing git
+Backend Developer,python java nodejs api development rest graphql databases microservices authentication caching
+Frontend Developer,html css javascript react angular vue responsive design ui ux accessibility
+Full Stack Developer,html css javascript react nodejs databases api development deployment cloud
+Web Developer,html css javascript react nodejs web technologies hosting seo performance
+Cloud Engineer,aws azure gcp linux docker kubernetes terraform cloud architecture networking security
+DevOps Engineer,linux docker kubernetes ci cd jenkins git aws automation monitoring scripting
+Site Reliability Engineer,linux cloud monitoring incident management reliability automation slos slis
+System Administrator,linux windows servers networking virtualization scripting backup recovery
+Network Engineer,networking routing switching cisco tcp ip firewalls vpn load balancing qos
+Cyber Security Analyst,networking linux cybersecurity soc siem ethical hacking risk assessment vulnerability
+Information Security Engineer,security architecture threat modeling compliance iam encryption zero trust
+SOC Analyst,security monitoring incident response siem log analysis threat detection forensics
+Electrical Engineer,matlab power systems electrical machines control systems plc protection relays scada
+Power Systems Engineer,power systems load flow protection relays power quality matlab grid stability
+Control Systems Engineer,control systems pid state space matlab simulink automation robotics
+Electronics Engineer,analog electronics digital electronics microcontrollers embedded systems pcb
+Embedded Engineer,c embedded systems microcontrollers arm rtos device drivers firmware i2c spi
+VLSI Engineer,verilog vhdl digital electronics semiconductor vlsi design timing analysis synthesis
+Instrumentation Engineer,sensors calibration industrial instrumentation plc scada control loops
+Mechanical Engineer,solidworks autocad thermodynamics manufacturing design mechanics materials
+Automobile Engineer,vehicle dynamics engine systems cad manufacturing automotive emissions
+Industrial Engineer,process optimization lean six sigma operations management productivity quality
+Production Engineer,manufacturing processes quality control production planning maintenance safety
+Mechatronics Engineer,robotics automation sensors control systems plc hydraulics pneumatics
+Civil Engineer,autocad staad estimation surveying construction management contracts
+Structural Engineer,structural analysis design concrete steel staad etabs seismic
+Construction Project Manager,project planning scheduling cost control execution safety risk
+Urban Planner,urban planning gis autocad infrastructure development zoning policy
+Environmental Engineer,environmental impact assessment sustainability water treatment waste management
+IoT Engineer,arduino sensors embedded systems iot protocols mqtt python networking cloud
+Robotics Engineer,robotics ros sensors actuators control systems python automation ai
+Automation Engineer,industrial automation plc scada robotics control systems dcs
+Renewable Energy Engineer,solar wind energy systems power electronics sustainability grid storage
+Business Analyst,excel sql powerbi stakeholder communication documentation process analysis requirements
+Product Manager,product roadmap agile scrum stakeholder analytics user research delivery metrics
+Program Manager,program planning cross functional coordination risk management execution governance
+Operations Manager,operations planning process improvement supply chain kpi management optimization
+Supply Chain Analyst,inventory logistics demand forecasting procurement analytics erp
+Logistics Manager,transportation warehousing distribution supply chain optimization operations
+Financial Analyst,excel financial modeling valuation budgeting forecasting accounting ratios
+Investment Analyst,equity research valuation financial modeling market analysis portfolio risk
+Accountant,tally gst taxation bookkeeping auditing financial statements compliance ifrs
+Auditor,internal audit compliance risk assessment financial reporting governance controls
+Banking Operations Officer,banking operations customer service compliance documentation loans kyc
+HR Executive,recruitment hr operations payroll engagement talent management onboarding compliance
+HR Business Partner,employee relations performance management workforce planning strategy policy
+Talent Acquisition Specialist,recruitment sourcing interviewing employer branding hiring ats
+Training and Development Specialist,learning programs training delivery skill development lms coaching
+Digital Marketing Specialist,seo sem google analytics content marketing ads social media campaigns
+Marketing Analyst,market research analytics consumer behavior reporting insights segmentation
+Brand Manager,branding strategy campaign management communication positioning storytelling
+Content Strategist,content planning seo writing analytics storytelling publishing editorial
+Social Media Manager,social media marketing content creation analytics ads engagement community
+UI UX Designer,figma wireframing prototyping user research usability interaction design accessibility
+Graphic Designer,photoshop illustrator branding typography visual design layouts creativity
+Motion Graphics Designer,after effects animation video editing motion design graphics vfx
+Video Editor,premiere pro video editing storytelling post production color grading audio
+Healthcare Data Analyst,healthcare analytics sql excel powerbi clinical data reporting hl7
+Biomedical Engineer,medical devices biomechanics signal processing matlab imaging instrumentation
+Clinical Research Analyst,clinical trials data analysis documentation compliance protocols gcp
+Hospital Administrator,healthcare operations administration compliance management billing operations
+Pharmaceutical Analyst,drug research clinical data regulatory documentation validation pharmacovigilance
+Quality Assurance Analyst,quality standards testing documentation compliance audits iso
+Regulatory Affairs Executive,regulatory submissions compliance guidelines approvals filings
+Education Consultant,career guidance counseling academic planning mentoring admissions placement
+Instructional Designer,learning design curriculum development e learning pedagogy content authoring
+Academic Research Assistant,research methodology data analysis documentation writing publications
+Professor,teaching research curriculum development assessment mentoring pedagogy
+Public Policy Analyst,policy research data analysis documentation impact assessment governance
+Government Program Officer,program implementation monitoring evaluation reporting schemes audits
+Administrative Officer,office administration documentation coordination compliance operations records
+Legal Associate,legal research documentation contracts compliance litigation drafting case law
+Corporate Lawyer,corporate law contracts mergers compliance governance advisory negotiations
+Intellectual Property Analyst,patents trademarks legal research documentation filings prosecution
+Journalist,news reporting writing media ethics research interviews editing fact checking
+Media Planner,media strategy advertising analytics campaign planning buying reach frequency
+Public Relations Executive,media relations communication branding reputation management crisis
+Entrepreneur,startup strategy business development fundraising operations leadership scaling
+Management Trainee,leadership operations strategy analysis execution learning rotation
+Consultant,business consulting problem solving analytics client management strategy delivery
+General Graduate,communication teamwork problem solving critical thinking documentation presentation
+Operations Executive,operations coordination reporting documentation process support compliance
+Office Executive,office administration coordination documentation scheduling communication
+Doctor,clinical diagnosis patient care treatment planning medical ethics opd ipd case management
+Medical Officer,clinical practice patient assessment diagnosis treatment hospital protocols
+General Physician,internal medicine patient diagnosis treatment follow up clinical documentation
+Specialist Doctor,specialized treatment clinical procedures patient management evidence based medicine
+Surgeon,surgical procedures pre operative post operative care operation theatre protocols
+Dentist,dental procedures oral diagnosis patient care dental surgery sterilization
+Nurse,patient care vitals monitoring medication administration nursing protocols
+Pharmacist,pharmacology dispensing medications drug interactions prescriptions inventory
+Physiotherapist,rehabilitation therapy musculoskeletal assessment exercise prescription patient recovery
+Medical Lab Technician,clinical pathology sample collection lab testing diagnostics reporting
+Radiologist,medical imaging x ray ct mri diagnostic reporting radiology protocols
+Public Health Officer,public health programs epidemiology community health policy implementation
+
+
